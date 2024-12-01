@@ -1,0 +1,74 @@
+{
+  "RootLayout": {
+    "home_link": "Inicio",
+    "about_link": "Acerca de",
+    "counter_link": "Contador",
+    "portfolio_link": "Portafolio",
+    "sign_in_link": "Iniciar sesión",
+    "sign_up_link": "Registrarse"
+  },
+  "BaseTemplate": {
+    "description": "Código inicial para Next.js con Tailwind CSS",
+    "made_with": "Hecho por <author></author>."
+  },
+  "Index": {
+    "meta_title": "Presentación de Next.js Boilerplate",
+    "meta_description": "Next.js Boilerplate es el código inicial perfecto para tu proyecto. Construye tu aplicación React con el framework Next.js.",
+    "sponsors_title": "Patrocinadores"
+  },
+  "Counter": {
+    "meta_title": "Contador",
+    "meta_description": "Un ejemplo de operación de base de datos",
+    "loading_counter": "Cargando contador...",
+    "error_reporting_powered_by": "Sistema de reporte de errores potenciado por"
+  },
+  "CounterForm": {
+    "presentation": "El contador se almacena en la base de datos y se incrementa según el valor que proporciones.",
+    "label_increment": "Incrementar por",
+    "button_increment": "Incrementar"
+  },
+  "CurrentCount": {
+    "count": "Contador: {count}"
+  },
+  "About": {
+    "meta_title": "Acerca de",
+    "meta_description": "Descripción acerca de nosotros",
+    "about_paragraph": "¡Bienvenido a nuestra página Acerca de! Somos un equipo apasionado y dedicado a la creación de software.",
+    "translation_powered_by": "Sistema de traducción potenciado por"
+  },
+  "Portfolio": {
+    "meta_title": "Portafolio",
+    "meta_description": "¡Bienvenido a la página de mi portafolio!",
+    "presentation": "¡Bienvenido a mi página de portafolio! Aquí encontrarás una colección cuidadosamente organizada de mi trabajo y logros. A través de este portafolio, destaco mi experiencia, creatividad y el valor que puedo aportar a tus proyectos.",
+    "portfolio_name": "Portafolio {name}",
+    "error_reporting_powered_by": "Sistema de reporte de errores potenciado por",
+    "coverage_powered_by": "Cobertura de código potenciada por"
+  },
+  "PortfolioSlug": {
+    "meta_title": "Portafolio {slug}",
+    "meta_description": "Descripción del Portafolio {slug}",
+    "header": "Portafolio {slug}",
+    "content": "Creación de un conjunto de materiales promocionales y elementos de marca para un evento corporativo. Diseño de una temática visualmente unificada, incluyendo logo, carteles, banners y recursos digitales. Integración de la identidad de marca del cliente mientras se incorpora un enfoque contemporáneo e innovador. Se obtuvieron respuestas positivas de los participantes, resultando en un evento exitoso con mayor participación y visibilidad de marca.",
+    "log_management_powered_by": "Gestión de registros potenciada por"
+  },
+  "SignIn": {
+    "meta_title": "Iniciar sesión",
+    "meta_description": "Inicia sesión en tu cuenta fácilmente."
+  },
+  "SignUp": {
+    "meta_title": "Registrarse",
+    "meta_description": "Crea una cuenta fácilmente con nuestro proceso de registro intuitivo."
+  },
+  "Dashboard": {
+    "meta_title": "Panel de control",
+    "hello_message": "¡Bienvenido {email}!"
+  },
+  "UserProfile": {
+    "meta_title": "Perfil de usuario"
+  },
+  "DashboardLayout": {
+    "dashboard_link": "Panel de control",
+    "user_profile_link": "Gestionar tu cuenta",
+    "sign_out": "Cerrar sesión"
+  }
+}
